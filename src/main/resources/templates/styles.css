@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+form{
+    width: 50%;
+    margin: auto;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.menu a{
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.header{
+    background-color:black;
+    overflow: auto;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+
+body {
+   width: 400px;
+       height: 200px;
+       border: 1px solid;
+       background-image: url(https://i.ytimg.com/vi/sDu9Kaxw-bo/maxresdefault.jpg);
+       background-attachment:fixed;
+       background-size;
+       background-position: bottom right;
+}
